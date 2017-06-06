@@ -1,4 +1,4 @@
-# awesome-machine-learning-robotics
+# Awsome Machine Learning for Robotics
 
 Machine Learning is becoming a common technique to address robotics tasks. This repository intends cover this usage from a broad point of view.
 
@@ -7,11 +7,11 @@ Machine Learning is becoming a common technique to address robotics tasks. This 
 ## Representation Learning
 
 ## Reinforcement Learning
-* [https://graphics.stanford.edu/projects/gpspaper/gps_full.pdf](Guided policy search), by Levine et Al.
+* [Guided policy search](https://graphics.stanford.edu/projects/gpspaper/gps_full.pdf), by Levine et Al.
 
 ## Curriculum learning, Multi-task learning
-* [https://arxiv.org/abs/1704.03003](Automated curriculum learning), by Graves et Al.
+* [Automated curriculum learning](https://arxiv.org/abs/1704.03003), by Graves et Al.
 
 # Implementations
-* [https://gym.openai.com/](OpenAI Gym)
-* [https://github.com/openai/baselines](OpenAI baselines)
+* [OpenAI Gym](https://gym.openai.com/)
+* [OpenAI baselines](https://github.com/openai/baselines)
