@@ -21,7 +21,7 @@ Machine Learning is becoming a common technique to address robotics tasks. This 
 * DDPG: [Continuous control with Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971), Lillicrap et Al.
 
 ### Reinforcement Learning Theory
-* REINFORCE: [http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf), Williams et Al.
+* REINFORCE: [Simple statistical gradient-following algorithms for connectionist reinforcement learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf), Williams et Al.
 * Policy Gradient Theorem: [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf), Sutton et Al.
 * [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf), Silver et Al.
 
