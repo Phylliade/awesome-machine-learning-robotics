@@ -28,8 +28,11 @@ Machine Learning is becoming a common technique to address robotics tasks. This 
 ### Policy Search
 * [Guided policy search](https://graphics.stanford.edu/projects/gpspaper/gps_full.pdf), by Levine et Al.
 
-## Curriculum learning, Multi-task learning
+## Meta-Learning
+### Curriculum learning
 * [Automated curriculum learning](https://arxiv.org/abs/1704.03003), by Graves et Al.
+### Multi-task learning
+* [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400), by Finn and Al.
 
 # Implementations
 * [OpenAI Gym](https://gym.openai.com/): A Python library providing many simulation environments.
