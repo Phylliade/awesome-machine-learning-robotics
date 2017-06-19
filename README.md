@@ -32,5 +32,7 @@ Machine Learning is becoming a common technique to address robotics tasks. This 
 * [Automated curriculum learning](https://arxiv.org/abs/1704.03003), by Graves et Al.
 
 # Implementations
-* [OpenAI Gym](https://gym.openai.com/)
-* [OpenAI baselines](https://github.com/openai/baselines)
+* [OpenAI Gym](https://gym.openai.com/): A Python library providing many simulation environments.
+* [OpenAI baselines](https://github.com/openai/baselines): Implementations of Deep Reinforcement Learning algorithms by experts.
+* [Guided Policy Search](http://rll.berkeley.edu/gps/): Implementation of the Guided Policy Search algorithm.
+* [Keras-RL](https://github.com/matthiasplappert/keras-rl): A keras-compatible Deep Reinforcement Learning framework.
