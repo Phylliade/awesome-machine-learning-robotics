@@ -5,7 +5,6 @@ Machine Learning is becoming a common technique to address robotics tasks. This 
 
 
 # Papers
-
 ## Learned Approximate Inference
 * [Auto-Encoding Variational Bayes](http://arxiv.org/abs/1312.6114), by Kingma et Al.
 * [Stochastic Backpropagation and Approximate Inference in Deep Generative Models](https://arxiv.org/abs/1401.4082), by Rezende et Al.
@@ -22,8 +21,9 @@ Machine Learning is becoming a common technique to address robotics tasks. This 
 * DDPG: [Continuous control with Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971), Lillicrap et Al.
 
 ### Reinforcement Learning Theory
-* [Policy Gradient Theorem](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf), Sutton et Al.
-* [Deterministic Policy Gradient](http://proceedings.mlr.press/v32/silver14.pdf), Silver et Al.
+* REINFORCE: [http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf), Williams et Al.
+* Policy Gradient Theorem: [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf), Sutton et Al.
+* [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf), Silver et Al.
 
 ### Policy Search
 * [Guided policy search](https://graphics.stanford.edu/projects/gpspaper/gps_full.pdf), by Levine et Al.
