@@ -25,7 +25,7 @@ Machine Learning is becoming a common technique to address robotics tasks. This 
 * [Policy Gradient Theorem](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf), Sutton et Al.
 * [Deterministic Policy Gradient](http://proceedings.mlr.press/v32/silver14.pdf), Silver et Al.
 
-### Episodic Reinforcement Learning
+### Policy Search
 * [Guided policy search](https://graphics.stanford.edu/projects/gpspaper/gps_full.pdf), by Levine et Al.
 
 ## Curriculum learning, Multi-task learning
