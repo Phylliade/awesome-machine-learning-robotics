@@ -17,6 +17,14 @@ Machine Learning is becoming a common technique to address robotics tasks. This 
 * [Variational Inference: Foundations and Modern Methods](http://www.cs.columbia.edu/~blei/talks/2016_NIPS_VI_tutorial.pdf), byu Blei et Al.
 
 ## Reinforcement Learning
+### Deep Reinforcement Learning
+* DDPG: [Continuous control with Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971), Lillicrap et Al.
+
+### Reinforcement Learning Theory
+* [Policy Gradient Theorem](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf), Sutton et Al.
+* [Deterministic Policy Gradient](http://proceedings.mlr.press/v32/silver14.pdf), Silver et Al.
+
+### Episodic Reinforcement Learning
 * [Guided policy search](https://graphics.stanford.edu/projects/gpspaper/gps_full.pdf), by Levine et Al.
 
 ## Curriculum learning, Multi-task learning
