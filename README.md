@@ -18,6 +18,7 @@ Machine Learning is becoming a common technique to address robotics tasks. This 
 
 ## Reinforcement Learning
 ### Deep Reinforcement Learning
+* Deep Q-Learning: [Human-level control through deep reinforcement learning](https://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)
 * DDPG: [Continuous control with Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971), Lillicrap et Al.
 
 ### Reinforcement Learning Theory
