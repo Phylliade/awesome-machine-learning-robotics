@@ -27,6 +27,7 @@ Machine Learning is becoming a common technique to address robotics tasks. This 
 * [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf), Silver et Al.
 
 ### Policy Search
+* Policy search suvery: [Reinforcement learning of motor skills with policy gradients](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/attachments/Neural-Netw-2008-21-682_4867%5b0%5d.pdf), by Peters and Schaal.
 * [Guided policy search](https://graphics.stanford.edu/projects/gpspaper/gps_full.pdf), by Levine et Al.
 
 ## Meta-Learning
