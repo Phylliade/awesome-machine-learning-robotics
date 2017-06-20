@@ -18,8 +18,9 @@ Machine Learning is becoming a common technique to address robotics tasks. This 
 ## Reinforcement Learning
 ### Deep Reinforcement Learning
 * Deep Q-Learning: [Human-level control through deep reinforcement learning](https://www.nature.com/nature/journal/v518/n7540/full/nature14236.html), by Mnih et Al.
-* DDPG: [Continuous control with Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971), Lillicrap et Al.
-
+* DDPG: [Continuous control with Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971), by Lillicrap et Al.
+* [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952), by Schaul et Al.
+* Auxiliary tasks: [Reinforcement learning with unsupervised auxiliary tasks](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/), by Jaderberg et Al.
 ### Reinforcement Learning Theory
 * REINFORCE: [Simple statistical gradient-following algorithms for connectionist reinforcement learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf), Williams et Al.
 * Policy Gradient Theorem: [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf), Sutton et Al.
