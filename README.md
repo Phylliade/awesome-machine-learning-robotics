@@ -40,4 +40,10 @@ Machine Learning is becoming a common technique to address robotics tasks. This 
 * [OpenAI Gym](https://gym.openai.com/): A Python library providing many simulation environments.
 * [OpenAI baselines](https://github.com/openai/baselines): Implementations of Deep Reinforcement Learning algorithms by experts.
 * [Guided Policy Search](http://rll.berkeley.edu/gps/): Implementation of the Guided Policy Search algorithm.
-* [Keras-RL](https://github.com/matthiasplappert/keras-rl): A keras-compatible Deep Reinforcement Learning framework.
+* [Keras-RL](https://github.com/matthiasplappert/keras-rl): A keras-compatible Deep Reinforcement Learning framework (DQN, SARSA, DDPG...).
+* [Deepmind DQN](https://github.com/deepmind/dqn): Deepmind's implementation used for the [Nature paper](https://www.nature.com/nature/journal/v518/n7540/full/nature14236.html).
+* [Devsisters DQN](https://github.com/devsisters/DQN-tensorflow): A nice DQN implementation.
+
+## Implemenenting RL algorithms
+* [Best pratices in implementing Deep RL algorithms](https://blog.openai.com/openai-baselines-dqn/), as part of this blog post.
+* [A note about gradient clipping](https://github.com/devsisters/DQN-tensorflow/issues/16), by Karpathy. Further explained in a [blog post](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
