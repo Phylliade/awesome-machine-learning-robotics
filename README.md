@@ -31,19 +31,33 @@ Machine Learning is becoming a common technique to address robotics tasks. This 
 * [Guided policy search](https://graphics.stanford.edu/projects/gpspaper/gps_full.pdf), by Levine et Al.
 
 ## Meta-Learning
+### Goal Exploration Processes
+* [Intrinsically Motivated Multi-Task Reinforcement Learning](https://www.reddit.com/r/MachineLearning/comments/5q9fnr/d_intrinsically_motivated_multitask_reinforcement/), by Forestier and Oudeyer.
 ### Curriculum learning
 * [Automated curriculum learning](https://arxiv.org/abs/1704.03003), by Graves et Al.
 ### Multi-task learning
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400), by Finn and Al.
 
+
+
 # Implementations
 * [OpenAI Gym](https://gym.openai.com/): A Python library providing many simulation environments.
 * [OpenAI baselines](https://github.com/openai/baselines): Implementations of Deep Reinforcement Learning algorithms by experts.
+* [Explauto](https://github.com/flowersteam/explauto): A library to perform intrinsically motivated exploration.
 * [Guided Policy Search](http://rll.berkeley.edu/gps/): Implementation of the Guided Policy Search algorithm.
 * [Keras-RL](https://github.com/matthiasplappert/keras-rl): A keras-compatible Deep Reinforcement Learning framework (DQN, SARSA, DDPG...).
 * [Deepmind DQN](https://github.com/deepmind/dqn): Deepmind's implementation used for the [Nature paper](https://www.nature.com/nature/journal/v518/n7540/full/nature14236.html).
 * [Devsisters DQN](https://github.com/devsisters/DQN-tensorflow): A nice DQN implementation.
 
 ## Implementing RL algorithms
-* [Best pratices in implementing Deep RL algorithms](https://blog.openai.com/openai-baselines-dqn/), as part of this blog post.
-* [A note about gradient clipping](https://github.com/devsisters/DQN-tensorflow/issues/16), by Karpathy. Further explained in a [blog post](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
+* [Best pratices in implementing Deep RL algorithms](https://blog.openai.com/openai-baselines-dqn/), as part of a blog post.
+* [A note about gradient clipping](https://github.com/devsisters/DQN-tensorflow/issues/16), by Karpathy. Further explained in a [blog post](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b).
+
+## Robotic simulator
+* [MuJoCo](http://www.mujoco.org/): The reference. Closed-source
+* [OpenAI Roboschool](https://github.com/openai/roboschool): A Mujoco clone in bullet, open-source.
+* [Gazebo](http://gazebosim.org/): A simulator used in the ROS suite.
+* [V-REP](http://www.coppeliarobotics.com/): A simulator used with the Poppy project.
+
+## Robotic platforms
+* [Poppy](https://www.poppy-project.org/en/): An open-source 3D-printed robotic ecosystem (humanoid, torso...)
