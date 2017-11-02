@@ -23,6 +23,10 @@ Machine Learning is becoming a common technique to address robotics tasks. This 
 * Auxiliary tasks: [Reinforcement learning with unsupervised auxiliary tasks](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/), by Jaderberg et Al.
 * [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286), by Heess et Al.
 
+### Reproducibility of Deep RL experiments
+* [Deep RL that matters](https://arxiv.org/abs/1709.06560), by Henderson et Al.
+* [ Reproducibility of Benchmarked Deep Reinforcement Learning Tasks for Continuous Control](https://arxiv.org/abs/1708.04133), by Islam et Al.
+
 ### Reinforcement Learning Theory
 * REINFORCE: [Simple statistical gradient-following algorithms for connectionist reinforcement learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf), Williams et Al.
 * Policy Gradient Theorem: [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf), Sutton et Al.
