@@ -67,3 +67,9 @@ Machine Learning is becoming a common technique to address robotics tasks. This 
 
 ## Robotic platforms
 * [Poppy](https://www.poppy-project.org/en/): An open-source 3D-printed robotic ecosystem (humanoid, torso...)
+
+# About
+
+Authors:
+* [Alexandre Pere](https://www.linkedin.com/in/alexandre-pere-432b6883/)
+* Pierre Manceron
