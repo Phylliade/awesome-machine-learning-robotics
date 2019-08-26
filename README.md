@@ -72,4 +72,4 @@ Machine Learning is becoming a common technique to address robotics tasks. This 
 
 Authors:
 * [Alexandre Pere](https://www.linkedin.com/in/alexandre-pere-432b6883/)
-* Pierre Manceron
+* [Pierre Manceron](https://www.linkedin.com/in/pierre-manceron-a136b538/)
